@@ -23,7 +23,7 @@
       <img src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="LinkedIn logo" width="40" />
     </a>
     <a href="https://medium.com/@your_username" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=YO3UFOFDrk3i&format=png&color=000000" width="40" />
+      <img src="https://img.icons8.com/?size=100&id=D9WH2Utqt0yd&format=png&color=000000" width="40" />
     </a>
     <a href="https://leetcode.com/your_username/" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode logo" width="40" />
