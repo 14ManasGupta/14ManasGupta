@@ -1,15 +1,15 @@
 <div class="bg-primary text-white p-4 rounded shadow mb-4">
-  <h1 class="text-3xl font-bold">Hey 👋 What's up?</h1>
-  <p>My name is MANAS GUPTA and I'm an AI / ML DEVELOPER, from GURGAON</p>
+  <h1 class="text-3xl font-bold">Hi, Welcome to My Git Profile </h1>
+  <p>I am Manas Gupta, Final Year Computer Science Undergrad at NIET. My specializations are Artificial Intelligence & Machine Learning. Check out Official Website Here - https://conventusmun.com/</p>
 </div>
 
 <div class="mb-4">
   <h2 class="text-2xl font-bold mb-2">About me</h2>
   <ul class="space-y-2">
-    <li>✨ Creating bugs since 2022</li>
-    <li>📚 I'm currently learning DSA and COMPETITIVE PROGRAMMING, also providing Web Development Services</li>
-    <li>🎯 Goals: Want to establish my startup till 2030</li>
-    <li>🎲 Fun fact: I'm in love with someone for so many years now. Still, so many love it so sometimes I feel jealous jk, and it is MUSIC!!!</li>
+    <li>🔭 Currently working on projects involving Machine Learning and Development.</li>
+    <li>🌱 I'm currently learning Web Development.</li>
+    <li>🎯 Eager to learn Android / ios Development in collaborationg with a mentor.</li>
+    <li>🌐 Know more about me: https://linktr.ee/manasgupta_ </li>
   </ul>
 </div>
 
@@ -17,13 +17,13 @@
   <h2 class="text-2xl font-bold mb-2">Connect with me</h2>
   <div class="flex items-center space-x-4">
     <a href="https://linktr.ee/your_username" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=x03G5TG9OoEO&format=png&color=000000" alt="Linktree logo" width="40" />
+      <img src="https://img.icons8.com/?size=100&id=GfTOMrwiax2M&format=png&color=000000" alt="Linktree logo" width="40" />
     </a>
     <a href="https://www.linkedin.com/in/your_username/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" width="40" />
+      <img src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="LinkedIn logo" width="40" />
     </a>
     <a href="https://medium.com/@your_username" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=XXQXR1Js3B06&format=png&color=000000" alt="Medium logo" width="40" />
+      <img src="https://img.icons8.com/?size=100&id=YO3UFOFDrk3i&format=png&color=000000" width="40" />
     </a>
     <a href="https://leetcode.com/your_username/" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode logo" width="40" />
@@ -48,10 +48,27 @@
 <div class="mb-4">
   <h2 class="text-2xl font-bold mb-2">Content Section</h2>
   <div class="space-y-4">
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.</p>
-    <p>Integer vulputate erat nec sem interdum, a viverra justo pretium. Donec nec volutpat ligula, non sagittis nunc.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.</p>
-    <p>Mauris faucibus tortor ut lectus elementum, nec auctor justo consequat. Proin ultricies metus nec semper interdum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.</p>
-    <p>Curabitur tincidunt lorem eget metus convallis, vel fermentum odio malesuada. Fusce a sollicitudin eros, sed tristique ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis libero in erat mollis, at sagittis nisl tincidunt.</p>
+    <p>Education:
+Noida Institute of Engineering & Technology, Noida - B.Tech in Computer Science and Engineering (Spec: AI-ML)
+
+Amity International School, Gurgaon, Grade XII - Percentage: 89.3 
+
+Amity International School, Gurgaon, Grade X - Percentage: 93.0
+
+Experience:
+Artificial Intelligence Intern, Bharat Intern (Jul 2023 - Sep 2023) 
+
+Gained hands-on experience in data preprocessing, model training, and deploying AI solutions. 
+valuable experience in data analysis, model development, and collaborative problem-solving.
+Also, reinforced the importance of teamwork, adaptability, and continuous learning in the field of AI.
+
+Projects:
+Conventus MUN Website: https://conventusmun.com/
+co-Campus: University ERP Attendance & Examination Portal
+Vikrant: Rel Time Ship Navigation System (SIH 2024, Qualified Project)
+Eco-Engage: Waste Management and MarketPlace Platform for Goverment of Kerala. (SIH 2023, Qualified Project)
+Translator Tool: BharatIntern Project 1
+Auto-Correction Tool: BharatIntern Project 2</p>
   </div>
 </div>
 
