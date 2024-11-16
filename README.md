@@ -63,7 +63,7 @@
       Also, reinforced the importance of teamwork, adaptability, and continuous learning in the field of AI.
     </ul>
 
-  <p class="font-bold"><<b>Projects:</b></p>
+  <p class="font-bold"><b>Projects:</b></p>
     <ul class="list-disc pl-5">
       <li><b>Conventus:</b> Visit -> https://conventusmun.com/</li>
       <li><b>Co-Campus:</b> University ERP Attendance & Examination Portal</li>
