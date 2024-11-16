@@ -16,16 +16,16 @@
 <div class="mb-4">
   <h2 class="text-2xl font-bold mb-2">Connect with me</h2>
   <div class="flex items-center space-x-4">
-    <a href="https://linktr.ee/your_username" target="_blank">
+    <a href="https://linktr.ee/manasgupta_" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=GfTOMrwiax2M&format=png&color=000000" alt="Linktree logo" width="40" />
     </a>
-    <a href="https://www.linkedin.com/in/your_username/" target="_blank">
+    <a href="https://www.linkedin.com/in/manasgupta--/" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="LinkedIn logo" width="40" />
     </a>
-    <a href="https://medium.com/@your_username" target="_blank">
+    <a href="https://manaswrites.medium.com/" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=InFPHXxpBdjV&format=png&color=000000" width="40" />
     </a>
-    <a href="https://leetcode.com/your_username/" target="_blank">
+    <a href="https://leetcode.com/u/manasgupta-/" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode logo" width="40" />
     </a>
   </div>
