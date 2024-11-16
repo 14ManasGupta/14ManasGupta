@@ -48,7 +48,7 @@
 <div class="mb-4">
   <h2 class="text-2xl font-bold mb-2">About Me</h2>
   <div class="space-y-4">
-    <p class="font=bold"><b>Education:</b>b</p>
+    <p class="font=bold"><b>Education:</b></p>
     <ul class="list-disc pl-5">
       <li>Noida Institute of Engineering & Technology, Noida - B.Tech in Computer Science and Engineering (Spec: AI-ML)</li>
       <li>Amity International School, Gurgaon, Grade XII - Percentage: 89.3</li>
@@ -65,12 +65,12 @@
 
   <p class="font-bold"><<b>Projects:</b></p>
     <ul class="list-disc pl-5">
-      <li><i>Conventus MUN Website:</i> "https://conventusmun.com/"</li>
-      <li>Co-Campus: University ERP Attendance & Examination Portal</li>
-      <li>Vikrant: Real-Time Ship Navigation System (SIH 2024, Qualified Project)</li>
-      <li>Eco-Engage: Waste Management and Marketplace Platform for Government of Kerala. (SIH 2023, Qualified Project)</li>
-      <li>Translator Tool: BharatIntern Project Task 1</li>
-      <li>Auto-Correction Tool: BharatIntern Project Task 2</li>
+      <li><b>Conventus:</b> "https://conventusmun.com/"</li>
+      <li><b>Co-Campus:</b> University ERP Attendance & Examination Portal</li>
+      <li><b>Vikrant:</b> Real-Time Ship Navigation System (SIH 2024, Qualified Project)</li>
+      <li><b>Eco-Engage:</b> Waste Management and Marketplace Platform for Government of Kerala. (SIH 2023, Qualified Project)</li>
+      <li><b>Translator Tool:</b> BharatIntern Project Task 1</li>
+      <li><b>Auto-Correction Tool:</b> BharatIntern Project Task 2</li>
     </ul>
   </div>
 </div>
