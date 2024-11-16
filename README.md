@@ -46,9 +46,9 @@
 </div>
 
 <div class="mb-4">
-  <h2 class="text-2xl font-bold mb-2">Content Section</h2>
+  <h2 class="text-2xl font-bold mb-2">About Me</h2>
   <div class="space-y-4">
-    <p class="font-bold">Education:</p>
+    <p class="font=bold">Education:</p>
     <ul class="list-disc pl-5">
       <li>Noida Institute of Engineering & Technology, Noida - B.Tech in Computer Science and Engineering (Spec: AI-ML)</li>
       <li>Amity International School, Gurgaon, Grade XII - Percentage: 89.3</li>
