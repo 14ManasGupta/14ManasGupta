@@ -68,7 +68,8 @@ co-Campus: University ERP Attendance & Examination Portal
 Vikrant: Rel Time Ship Navigation System (SIH 2024, Qualified Project)
 Eco-Engage: Waste Management and MarketPlace Platform for Goverment of Kerala. (SIH 2023, Qualified Project)
 Translator Tool: BharatIntern Project 1
-Auto-Correction Tool: BharatIntern Project 2</p>
+Auto-Correction Tool: BharatIntern Project 2
+</p>
   </div>
 </div>
 
