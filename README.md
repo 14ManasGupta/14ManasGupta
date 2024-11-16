@@ -65,18 +65,18 @@
 
   <p class="font-bold">Projects:</p>
     <ul class="list-disc pl-5">
-      <li><a href="https://conventusmun.com/" class="text-blue-500">Conventus MUN Website</a></li>
-      <li>co-Campus: University ERP Attendance & Examination Portal</li>
+      <li><b>Conventus MUN Website:</b> <a href="https://conventusmun.com/" class="text-blue-500"></a></li>
+      <li>Co-Campus: University ERP Attendance & Examination Portal</li>
       <li>Vikrant: Real-Time Ship Navigation System (SIH 2024, Qualified Project)</li>
       <li>Eco-Engage: Waste Management and Marketplace Platform for Government of Kerala. (SIH 2023, Qualified Project)</li>
-      <li>Translator Tool: BharatIntern Project 1</li>
-      <li>Auto-Correction Tool: BharatIntern Project 2</li>
+      <li>Translator Tool: BharatIntern Project Task 1</li>
+      <li>Auto-Correction Tool: BharatIntern Project Task 2</li>
     </ul>
   </div>
 </div>
 
 <div class="bg-primary text-white p-4 rounded shadow hover:shadow-lg">
-  <h2 class="text-2xl font-bold mb-2">My GitHub Stats</h2>
+  <h2 class="text-2xl font-bold mb-2">GitHub Statistics</h2>
   <div class="flex items-center justify-between">
     <img src="https://github-readme-stats.vercel.app/api?username=14ManasGupta&show_icons=true&theme=radical" alt="Manas's GitHub stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=14ManasGupta&theme=radical" alt="Manas's GitHub streak" />
