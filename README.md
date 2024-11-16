@@ -48,14 +48,14 @@
 <div class="mb-4">
   <h2 class="text-2xl font-bold mb-2">About Me</h2>
   <div class="space-y-4">
-    <p class="font=bold">Education:</p>
+    <p class="font=bold"><b>Education:</b>b</p>
     <ul class="list-disc pl-5">
       <li>Noida Institute of Engineering & Technology, Noida - B.Tech in Computer Science and Engineering (Spec: AI-ML)</li>
       <li>Amity International School, Gurgaon, Grade XII - Percentage: 89.3</li>
       <li>Amity International School, Gurgaon, Grade X - Percentage: 93.0</li>
     </ul>
     
-  <p class="font-bold">Experience:</p>
+  <p class="font-bold"><b>Experience:</b></p>
     <ul class="list-disc pl-5">
       <li>Artificial Intelligence Intern, Bharat Intern (Jul 2023 - Sep 2023)</li>
       Gained hands-on experience in data preprocessing, model training, and deploying AI solutions.
@@ -63,9 +63,9 @@
       Also, reinforced the importance of teamwork, adaptability, and continuous learning in the field of AI.
     </ul>
 
-  <p class="font-bold">Projects:</p>
+  <p class="font-bold"><<b>Projects:</b></p>
     <ul class="list-disc pl-5">
-      <li><b>Conventus MUN Website:</b> <a href="https://conventusmun.com/" class="text-blue-500"></a></li>
+      <li><i>Conventus MUN Website:</i> "https://conventusmun.com/"</li>
       <li>Co-Campus: University ERP Attendance & Examination Portal</li>
       <li>Vikrant: Real-Time Ship Navigation System (SIH 2024, Qualified Project)</li>
       <li>Eco-Engage: Waste Management and Marketplace Platform for Government of Kerala. (SIH 2023, Qualified Project)</li>
