@@ -42,7 +42,6 @@
     <img src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000" height="40" alt="tensorflow logo" />
     <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" height="40" alt="javascript logo" />
     <img src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" height="40" alt="react logo" />
-    <img src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" height="40" alt="nextjs logo" />
   </div>
 </div>
 
