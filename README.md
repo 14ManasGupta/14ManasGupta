@@ -34,14 +34,14 @@
 <div class="mb-4">
   <h2 class="text-2xl font-bold mb-2">Languages & Tools:</h2>
   <div class="flex items-center space-x-4">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+    <img src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000" height="40" alt="python logo" />
+    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="40" alt="java logo" />
+    <img src="https://img.icons8.com/?size=100&id=zRvbzAjx4VWY&format=png&color=000000" height="40" alt="c logo" />
+    <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" height="40" alt="mysql logo" />
+    <img src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000" height="40" alt="tensorflow logo" />
+    <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" height="40" alt="javascript logo" />
     <img src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" height="40" alt="react logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+    <img src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" height="40" alt="nextjs logo" />
   </div>
 </div>
 
