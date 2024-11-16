@@ -50,7 +50,7 @@
   <div class="space-y-4">
     <p class="font=bold"><b>Education:</b></p>
     <ul class="list-disc pl-5">
-      <li>Noida Institute of Engineering & Technology, Noida - B.Tech in Computer Science and Engineering (Spec: AI-ML)</li>
+      <li>NIET, Noida - B.Tech Hons. CSE(AI-ML)</li>
       <li>Amity International School, Gurgaon, Grade XII - Percentage: 89.3</li>
       <li>Amity International School, Gurgaon, Grade X - Percentage: 93.0</li>
     </ul>
@@ -65,7 +65,7 @@
 
   <p class="font-bold"><<b>Projects:</b></p>
     <ul class="list-disc pl-5">
-      <li><b>Conventus:</b> "https://conventusmun.com/"</li>
+      <li><b>Conventus:</b> Visit -> https://conventusmun.com/</li>
       <li><b>Co-Campus:</b> University ERP Attendance & Examination Portal</li>
       <li><b>Vikrant:</b> Real-Time Ship Navigation System (SIH 2024, Qualified Project)</li>
       <li><b>Eco-Engage:</b> Waste Management and Marketplace Platform for Government of Kerala. (SIH 2023, Qualified Project)</li>
