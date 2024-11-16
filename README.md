@@ -58,9 +58,9 @@
   <p class="font-bold">Experience:</p>
     <ul class="list-disc pl-5">
       <li>Artificial Intelligence Intern, Bharat Intern (Jul 2023 - Sep 2023)</li>
-      <li>Gained hands-on experience in data preprocessing, model training, and deploying AI solutions.</li>
-      <li>Valuable experience in data analysis, model development, and collaborative problem-solving.</li>
-      <li>Also, reinforced the importance of teamwork, adaptability, and continuous learning in the field of AI.</li>
+      Gained hands-on experience in data preprocessing, model training, and deploying AI solutions.
+      Valuable experience in data analysis, model development, and collaborative problem-solving.
+      Also, reinforced the importance of teamwork, adaptability, and continuous learning in the field of AI.
     </ul>
 
   <p class="font-bold">Projects:</p>
