@@ -37,6 +37,7 @@
     <img src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000" height="40" alt="python logo" />
     <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="40" alt="java logo" />
     <img src="https://img.icons8.com/?size=100&id=zRvbzAjx4VWY&format=png&color=000000" height="40" alt="c logo" />
+    <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" height="40" alt="mysql logo" />
     <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" height="40" alt="mysql logo" />
     <img src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000" height="40" alt="tensorflow logo" />
     <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" height="40" alt="javascript logo" />
