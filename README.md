@@ -1,6 +1,6 @@
 <div class="bg-primary text-white p-4 rounded shadow mb-4">
   <h1 class="text-3xl font-bold">Hi, Welcome to My Profile! </h1>
-  <p>I am Manas Gupta, Final Year Computer Science Undergrad at NIET. My specializations are Artificial Intelligence & Machine Learning. Check out Official Website Here - https://conventusmun.com/</p>
+  <p>I am Manas Gupta, Final Year Computer Science Undergrad at NIET. My specializations are Artificial Intelligence & Machine Learning. Check out Official Website Here - manasgupta.com </p>
 </div>
 
 <div class="mb-4">
