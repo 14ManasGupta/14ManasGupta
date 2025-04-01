@@ -8,7 +8,7 @@
   <ul class="space-y-2">
     <li>🔭 Currently working on projects involving Machine Learning and Development.</li>
     <li>🌱 I'm currently learning Web Development.</li>
-    <li>🎯 Eager to learn Android / ios Development in collaborationg with a mentor.</li>
+    <li>🎯 Eager to learn Android / ios Development in collaboration with a mentor.</li>
     <li>🌐 Know more about me: https://linktr.ee/manasgupta_ </li>
   </ul>
 </div>
